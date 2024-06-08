@@ -22,3 +22,8 @@
     - HTTPs
     - Tree Shaking - remove unused code
     - Different dev and prod bundles
+
+3) Laying the Foundation
+
+    => JSX(transpiled before it reaches the JS) ->Parcel ->Babel
+    => JSX ->Babel transpile it to React.createElement ->ReactElement-JS Object -> HTML Element(render)
