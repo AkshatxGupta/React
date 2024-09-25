@@ -25,5 +25,5 @@
 
 3) Laying the Foundation
 
-    => JSX(transpiled before it reaches the JS) ->Parcel ->Babel
+    => JSX(transpiled before it reaches the JS Engine) ->Parcel ->Babel
     => JSX ->Babel transpile it to React.createElement ->ReactElement-JS Object -> HTML Element(render)
